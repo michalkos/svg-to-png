@@ -1,0 +1,5 @@
+{
+  "name": "SVG to PNG Converter",
+  "description": "A web application to convert SVG code into a PNG image with customizable resolution and background options. Generate high-quality PNGs from your SVGs instantly.",
+  "requestFramePermissions": []
+}
