@@ -14,3 +14,7 @@ https://michalkos.github.io/svg-to-png/
    `npm install`
 2. Run the app:
    `npm run dev`
+
+-----
+
+Generated with https://aistudio.google.com/
